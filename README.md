@@ -1,5 +1,5 @@
-# UD170
-Intro to Data Analysis
+# Intro to Data Analysis
+
 > This course guides me through the process of data analysis, which including
 > * Posing a question
 > * Wrangling data into a format I can use and fixing any problems with it

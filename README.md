@@ -26,7 +26,7 @@ During this lesson, I have data about countries all over the world, and being as
 
 *Detail of data is explained in the "Gapminder/table_description.txt"*
 
-*Solutions is written in "Gapminder/Gapminder data.ipynb"*
+*Solutions is written in "Gapminder/Gapminder Data.ipynb"*
 
 ## Lesson 3
 During this lesson, I have data about subway and weather, and being asked following questions in order to get familiar with Numpy and Pands in 2D data. Data including:

@@ -16,7 +16,7 @@ During this lesson, I have data about students of Data Analyst Nanodegree, and b
 
 *Solutions is written in "Udacity Students Data/Udacity Students Data.ipynb"*
 
-## Lesson 2
+## Gapminder
 During this lesson, I have data about countries all over the world, and being asked following questions in order to practice Numpy and Pands. Data including:
 * employment_above_15.csv
 * female_completion_rate.csv
@@ -24,9 +24,9 @@ During this lesson, I have data about countries all over the world, and being as
 * gdp_per_capita.csv
 * gdp_per_capita.csv
 
-*Detail of data is explained in the "Lesson 2/table_description.txt"*
+*Detail of data is explained in the "Gapminder/table_description.txt"*
 
-*Solutions is written in "Lesson 2/Starter_code.ipynb"*
+*Solutions is written in "Gapminder/Gapminder data.ipynb"*
 
 ## Lesson 3
 During this lesson, I have data about subway and weather, and being asked following questions in order to get familiar with Numpy and Pands in 2D data. Data including:

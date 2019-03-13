@@ -5,7 +5,6 @@ Lab in Ann Arbor, Michigan.The EPA provides this data to the government each yea
 their fuel economy guide.
 
 <p>
-Author: Halwai Aftab Hasan | ahkhalwai55@gmail.com</br>
 Domain: Data Analyst</br>
 Language: Python 3.6</br>
 Environment: Ipython Notebook(Python 3.6)</br>

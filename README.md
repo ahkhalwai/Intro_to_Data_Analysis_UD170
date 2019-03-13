@@ -28,10 +28,10 @@ During this lesson, I have data about countries all over the world, and being as
 
 *Solutions is written in "Gapminder/Gapminder Data.ipynb"*
 
-## Lesson 3
+## NYC Subway & Weather
 During this lesson, I have data about subway and weather, and being asked following questions in order to get familiar with Numpy and Pands in 2D data. Data including:
 * nyc_subway_weather.csv
 
-*Detail of data is explained in the "Lesson 3/nyc_subway_weather_descriptions.txt"*
+*Detail of data is explained in the "NYC Subway & Weather/nyc_subway_weather_descriptions.pdf"*
 
-*Solutions is written in "Lesson 3/Starter_code.ipynb"*
+*Solutions is written in "NYC Subway & Weather/NYC Subway & Weather Data.ipynb"*

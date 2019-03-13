@@ -35,3 +35,21 @@ During this lesson, I have data about subway and weather, and being asked follow
 *Detail of data is explained in the "NYC Subway & Weather/nyc_subway_weather_descriptions.pdf"*
 
 *Solutions is written in "NYC Subway & Weather/NYC Subway & Weather Data.ipynb"*
+
+## Fuel Economy
+During this lesson, I have data about students of Data Analyst Nanodegree, and being asked following questions in order to practice the data analysis process. Data including:
+* all_alpha_08.csv
+* all_alpha_18.csv
+
+*Detail of data is explained in the "Fuel Economy/GreenVehicleGuideDocumentation.pdf"*
+
+*Solutions is written in "Fuel Economy/Fuel Economy Analysis.ipynb"*
+
+## Wine Quality
+During this lesson, I have data about students of Data Analyst Nanodegree, and being asked following questions in order to practice the data analysis process. Data including:
+* winequality-red.csv
+* winequality-white.csv
+
+*Detail of data is explained in the "Wine Quality/Wine Quality Description.txt"*
+
+*Solutions is written in "Wine Quality/Wine Quality.ipynb"*
